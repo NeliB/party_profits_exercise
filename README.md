@@ -1,0 +1,2 @@
+# party_profits_exercise
+python_fundamentals_exercise
